@@ -1,1 +1,31 @@
 
+[
+  {
+    "id": 1,
+    "name": "TCS",
+    "role": "Software Developer",
+    "location": "Hyderabad",
+    "package": "7 LPA",
+    "eligibility": "7.0 CGPA",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "role": "System Engineer",
+    "location": "Bengaluru",
+    "package": "6 LPA",
+    "eligibility": "6.5 CGPA",
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "role": "Project Engineer",
+    "location": "Chennai",
+    "package": "5 LPA",
+    "eligibility": "6.0 CGPA",
+    "status": "Upcoming"
+  }
+]
+
