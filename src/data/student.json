@@ -1,0 +1,11 @@
+{
+  "name": "Vamsi Sri",
+  "rollNumber": "23CSM0XX",
+  "branch": "CSM",
+  "year": "3rd Year",
+  "cgpa": 9.4,
+  "email": "vamsi.student@example.com",
+  "phone": "+91 98765 43210",
+  "skills": ["React.js", "Java", "Python", "SQL", "AWS Basics"],
+  "about": "Computer Science student interested in software development, cloud computing, and problem solving."
+}
