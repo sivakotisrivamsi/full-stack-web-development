@@ -1,1 +1,31 @@
 
+[
+  {
+    "id": 1,
+    "name": "Rahul Kumar",
+    "rollNo": "23CS001",
+    "branch": "CSE",
+    "cgpa": 8.7,
+    "skills": ["Java", "React", "SQL"],
+    "placementStatus": "Eligible"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "rollNo": "23CS002",
+    "branch": "CSE",
+    "cgpa": 9.2,
+    "skills": ["Python", "Machine Learning"],
+    "placementStatus": "Placed"
+  },
+  {
+    "id": 3,
+    "name": "Arjun Reddy",
+    "rollNo": "23CS003",
+    "branch": "CSM",
+    "cgpa": 7.8,
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "placementStatus": "Eligible"
+  }
+]
+
