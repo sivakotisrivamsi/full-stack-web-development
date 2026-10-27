@@ -1,9 +1,13 @@
-function StudentCard() {
+
+function StudentCard({ student }) {
   return (
-    <div>
-      <h3>Student Details</h3>
+    <div className="student-card">
+      <h3>{student.name}</h3>
+      <p>Branch: {student.branch}</p>
+      <p>Status: {student.status}</p>
     </div>
   );
 }
 
 export default StudentCard;
+
